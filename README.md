@@ -2,6 +2,8 @@
 
 ### A simple hack that shows lesbian flag colours in the Languages bar on GitHub
 
+Inspired by this [repository](https://github.com/chrisnager/pride)🏳️‍🌈
+
 ## How to change the colours for any repository
 
 Follow these steps: 
