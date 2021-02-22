@@ -1,5 +1,5 @@
-*.c linguist-language=Postscript
-*.css linguist-language=RenPy
-*.js linguist-language=EmberScript
-*.py linguist-language=Sass
-*.rb linguist-language=ECL
+#*.c linguist-language=Postscript
+#*.css linguist-language=RenPy
+#*.js linguist-language=EmberScript
+#*.py linguist-language=Sass
+#*.rb linguist-language=ECL
