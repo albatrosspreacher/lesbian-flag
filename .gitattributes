@@ -1,5 +1,3 @@
-
-
 *.sass linguist-language=Postscript
 *.em linguist-language=RenPy
 *.ecl linguist-language=EmberScript
