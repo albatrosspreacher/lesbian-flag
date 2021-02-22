@@ -1,0 +1,5 @@
+*.sass linguist-language=Postscript
+*.em linguist-language=Ren'Py
+*.ecl linguist-language=EmberScript
+*.ps linguist-language=Sass
+*.rpy linguist-language=ECL
