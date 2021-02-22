@@ -1,3 +1,4 @@
+* linguist-vendored
 *.sass linguist-language=Postscript
 *.em linguist-language=Ren'Py
 *.ecl linguist-language=EmberScript
