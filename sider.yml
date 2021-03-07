@@ -5,7 +5,6 @@
 
 # Customize each tool. If analyses fail, try adjusting each option referencing the following example.
 linter:
-
 #   # Misspell example. See https://help.sider.review/tools/others/misspell
 #   misspell:
 #     root_dir: project/
